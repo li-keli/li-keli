@@ -72,20 +72,20 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=li-keli&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-keli&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=li-keli&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=li-keli&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=li-keli&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=li-keli&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=li-keli&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=li-keli&theme=github&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -97,7 +97,3 @@
 ⭐️ From [li-keli](https://github.com/li-keli)
 
 </div>
-
-<!-- profile: activated 2026-08-04T01:55:19Z -->
-
-
